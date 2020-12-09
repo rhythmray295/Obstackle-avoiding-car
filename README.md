@@ -1,2 +1,5 @@
-# Obstackle-avoiding-car
-This repository contains the code that can run an arduino build car which can avoid obstackle
+Description: modified NewPing library (ultrasonic sensors)
+
+Original author: Tim Eckel
+
+Homepage: https://code.google.com/p/arduino-new-ping/
